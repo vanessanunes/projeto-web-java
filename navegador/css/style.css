@@ -1,0 +1,13 @@
+body {
+    background-color: #999;
+    columns: #000000;
+}
+
+.container{
+    background-color: #f987;
+}
+
+.row{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
